@@ -167,98 +167,55 @@
     text-align: center;
   }
 }
-
-@media (max-width: 768px) {
-  .hero {
-    flex-direction: column;
-    padding: 2rem 1.5rem;
-    text-align: center;
-  }
-
-  .hero-text {
-    max-width: 100%;
-  }
-
-  .hero-text h1 {
-    font-size: 2rem;
-    line-height: 1.4;
-    word-wrap: break-word;
-  }
-
-  .hero-text p {
-    font-size: 0.95rem;
-  }
-
-  .search-box {
-    flex-direction: column;
-    gap: 0.8rem;
-    width: 100%;
-  }
-
-  .search-box input,
-  .search-box button {
-    width: 100%;
-  }
-}
-@media (max-width: 768px) {
-  .book-showcase {
-    padding: 2rem 0;
-    align-items: center;
-  }
-
-  .book-stack-hero {
-    width: 250px;
-    height: 360px;
-  }
-
-  .book-card {
-    width: 100%;
-    height: 100%;
-  }
-
-  .book-card img {
-    object-fit: cover;
-  }
-
-  .book-details h3 {
-    font-size: 1rem;
-  }
-
-  .book-details p {
-    font-size: 0.85rem;
-  }
+/* Hide menu toggle on desktop */
+.menu-toggle {
+  display: none;
+  font-size: 1.8rem;
+  cursor: pointer;
 }
 
-@media (max-width: 480px) {
-  .hero-text h1 {
-    font-size: 1.5rem;
-    line-height: 1.4;
-  }
-
-  .book-stack-hero {
-    width: 200px;
-    height: 300px;
-  }
-
-  .book-details h3 {
-    font-size: 0.95rem;
-  }
-
-  .book-details p {
-    font-size: 0.8rem;
-  }
-
-  .search-box input,
-  .search-box button {
-    font-size: 0.9rem;
-  }
-
+/* Responsive for screens <= 768px */
+@media (max-width: 768px) {
   .navbar {
-    padding: 1rem;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 2rem;
   }
-}
-.search-results-row {
-  scroll-behavior: smooth;
+
+  .menu-toggle {
+    display: block;
+    position: absolute;
+    right: 2rem;
+    top: 1.5rem;
+  }
+
+  .nav-links {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .nav-links li a {
+    padding: 0.7rem 0;
+    display: block;
+    width: 100%;
+  }
+
+  .nav-actions {
+    flex-direction: column;
+    width: 100%;
+    margin-top: 1rem;
+  }
+
+  .nav-actions button {
+    width: 100%;
+    margin-bottom: 0.5rem;
+  }
 }
 
   
@@ -1086,6 +1043,109 @@
   background: #ccc;
   border-radius: 4px;
 }
+/* ========== FOOTER ========== */
+.footer {
+  background: linear-gradient(135deg, #eafcf4, #d4f5e6);
+  color: #333;
+  padding: 4rem 6rem 2rem;
+  font-family: 'Inter', sans-serif;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.04);
+  transition: background 0.4s ease;
+}
+
+.footer-columns {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+  gap: 2rem;
+}
+
+.footer-column {
+  flex: 1;
+  min-width: 200px;
+}
+
+.footer-column h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #1b3b32;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-column ul li a {
+  color: #4d665f;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: color 0.2s ease;
+}
+
+.footer-column ul li a:hover {
+  color: #00a884;
+}
+
+.footer-column p {
+  font-size: 0.95rem;
+  color: #4d665f;
+  line-height: 1.6;
+}
+
+.footer-bottom {
+  text-align: center;
+  border-top: 1px solid #c6e7dc;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* ========== SOCIAL ICON COLORS ========== */
+.footer-column ul li a i {
+  margin-right: 8px;
+  color: #00a884;
+  transition: color 0.3s ease;
+}
+.footer-column ul li a:hover i {
+  color: #00775f;
+}
+
+/* ========== RESPONSIVE FOOTER ========== */
+@media (max-width: 768px) {
+  .footer {
+    padding: 3rem 2rem 2rem;
+  }
+
+  .footer-columns {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2.5rem;
+  }
+
+  .footer-column {
+    width: 100%;
+  }
+
+  .footer-column h4 {
+    font-size: 1.1rem;
+  }
+
+  .footer-bottom {
+    font-size: 0.85rem;
+    text-align: center;
+  }
+}
+
 
 /* ========== BOOK ITEM STYLE ========== */
 .search-results-row .book-item {
