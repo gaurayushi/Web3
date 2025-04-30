@@ -136,6 +136,44 @@ The project is a visual, interactive Pokédex where users can:
 
 ![1920093](https://github.com/user-attachments/assets/b2c91330-649a-4d10-8b4b-bb895105f783)
 
+
+
+
+
+
+# TodoMaker 📝
+
+A minimal and intuitive Todo app built with **Vite + React** to help you manage daily tasks efficiently.
+
+## 🌐 Live Demo
+[Click here to view the live app](https://web3-todo-zeta.vercel.app/)
+
+## 💻 Source Code
+[GitHub Repository](https://github.com/gaurayushi/Web3/tree/main/TodoMaker/Todo)
+
+## 🚀 Features
+- Add and delete todos
+- Simple and responsive UI
+- Real-time state updates
+- Persistent across page reloads (optional enhancement)
+
+## 📦 Tech Stack
+- **React** (with Hooks)
+- **Vite** (blazing fast dev server)
+- **Tailwind CSS** (for styling)
+- **JavaScript (ES6+)**
+
+## 📂 Installation & Setup
+
+```bash
+git clone https://github.com/gaurayushi/Web3.git
+cd Web3/TodoMaker/Todo
+npm install
+npm run dev
+
+
+
+
 ## 📁 Installation
 
 ```bash
