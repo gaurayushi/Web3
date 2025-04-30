@@ -46,6 +46,75 @@ Designed to work seamlessly across:
 
 ---
 
+
+
+
+
+
+
+
+
+
+# 🌟 Pokédex Explorer
+
+A responsive, animated Pokédex app built with **React**, **Vite**, and **Tailwind CSS**, powered by the [PokeAPI](https://pokeapi.co/).  
+🔗 **Live Demo:** [https://pokeapi-ayushigaur.vercel.app/](https://pokeapi-ayushigaur.vercel.app/)
+
+---
+
+## 🎯 Objective
+
+The project is a visual, interactive Pokédex where users can:
+- View the first 150 Pokémon
+- Search by name
+- Filter by type (Fire, Water, Grass, etc.)
+- View detailed stats with a smooth modal popup
+
+---
+
+## 🚀 Features
+
+- 🔍 Real-time search by Pokémon name
+- 🎨 Type filter dropdown
+- 🧩 Animated card grid with modal detail view
+- 💡 Loading spinner & graceful error handling
+- 📱 Fully responsive for desktop and mobile
+
+---
+
+## 📦 Tech Stack
+
+- **React + Vite** (frontend framework)
+- **Tailwind CSS** (utility-first styling)
+- **Framer Motion** (animations)
+- **Axios** (API calls)
+- **PokeAPI** (data source)
+
+---
+
+## 🔗 API Used
+
+- [https://pokeapi.co/api/v2/pokemon?limit=150](https://pokeapi.co/api/v2/pokemon?limit=150)  
+- Dynamically fetches full Pokémon data using `pokemon.url`
+
+---
+
+## 📁 Installation
+
+```bash
+git clone https://github.com/gaurayushi/Web3.git
+cd Web3
+npm install
+npm run dev
+
+
+
+
+
+
+
+
+
 ## 📌 How to Use
 
 1. Clone the repository:
