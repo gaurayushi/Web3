@@ -105,6 +105,19 @@ The project is a visual, interactive Pokédex where users can:
 
 ---
 
+
+
+![1920](https://github.com/user-attachments/assets/2f9567db-ebd1-4831-beda-8bb696442c87)
+
+
+
+
+![19200](https://github.com/user-attachments/assets/3fc3cdd1-5d71-46f9-ad20-eec5c7c8a30d)
+
+
+
+![1920093](https://github.com/user-attachments/assets/b2c91330-649a-4d10-8b4b-bb895105f783)
+
 ## 📁 Installation
 
 ```bash
