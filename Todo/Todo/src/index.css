@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  .gradient-bg {
+  background: linear-gradient(to bottom right, #a5b4fc, #d8b4fe, #f9a8d4);
+}
+
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  overflow-x: hidden;
+  .gradient-bg {
+    background: linear-gradient(to bottom right, #a5b4fc, #d8b4fe, #f9a8d4);
+  }
+  
+}
+

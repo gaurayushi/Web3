@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
   <head>
@@ -11,3 +12,284 @@
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
+=======
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>E-Book Store</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="sha512-S+IYq...g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+  <nav class="navbar">
+    
+    <div class="logo">Book<span>.com</span></div>
+      <!-- Menu icon for small screen toggle -->
+  <div class="menu-toggle" onclick="toggleMenu()">
+    &#9776;
+  </div>
+    
+    <ul class="nav-links">
+      <li><a href="#">Book Type</a></li>
+      <li><a href="#">Recommendation</a></li>
+      <li><a href="#">Popular</a></li>
+      <li><a href="#">Download App</a></li>
+    </ul>
+    <div class="nav-actions">
+      <button class="login-btn">Login</button>
+      <button class="start-btn">Start For Free</button>
+    </div>
+  </nav>
+
+  <header class="hero">
+    <div class="hero-text">
+      <h1>Find the book you’re looking for easier to read.</h1>
+      <p>The most appropriate book site to reach books</p>
+      <div class="search-box">
+        <input type="text"  id="bookInput" placeholder="Find your favorite book here...">
+        <button onclick="searchBook()">Search</button>
+      </div>
+      <!-- 📚 Book results scroll row -->
+    <div id="hero-search-results" class="search-results-row"></div>
+  </div>
+    </div>
+    <div class="book-showcase">
+        <div class="book-stack-hero">
+          <div class="book-card first">
+            <img src="https://i.pinimg.com/originals/6f/99/7b/6f997b1ecbd27e348095e90e545ca339.jpg" alt="Book 1">
+          </div>
+          <div class="book-card second">
+            <img src="https://i.pinimg.com/736x/24/66/bd/2466bdc4a399566a92ce7da55b9996a9.jpg" alt="Book 2">
+          </div>
+          <div class="book-card third">
+            <img src="https://i.pinimg.com/736x/49/3e/31/493e3142b898047692363484ddc275b0.jpg" alt="Book 3">
+          </div>
+
+          
+        </div>
+        <div class="book-details">
+          <h3>Gone Dead</h3>
+          <p>C.R Bernard</p>
+        </div>
+      </div>
+
+  </header>
+
+
+  <section class="best-sellers">
+    <h2>Best Seller Books</h2>
+    <div class="book-grid">
+  
+      <div class="book-item">
+        <div class="book-badge">15% OFF</div>
+        <img src="https://i.pinimg.com/originals/6a/4e/2c/6a4e2cc2b9e8669cd3c9e4de5c46cf5b.png"alt="Book 1">
+        <h3>Bowary Made</h3>
+        <p class="author">Floyd Miles</p>
+        <p class="price">$85.00</p>
+      </div>
+  
+      <div class="book-item">
+        <div class="book-badge">10% OFF</div>
+        <img src="https://i.pinimg.com/736x/cd/90/28/cd9028d1fd5273d69156323fdc575270.jpg" alt="Book 2">
+        <h3>Gurur Nyar I</h3>
+        <p class="author">Arlene McCoy</p>
+        <p class="price">$73.00</p>
+      </div>
+  
+      <div class="book-item">
+        <div class="book-badge">5% OFF</div>
+        <img src="https://i.pinimg.com/736x/f7/d1/fb/f7d1fb619138217b68d37685d38890b1.jpg" alt="Book 3">
+        <h3>Beqaz Dias I</h3>
+        <p class="author">Theresa Webb</p>
+        <p class="price">$65.00</p>
+      </div>
+  
+      <div class="book-item">
+        <div class="book-badge">10% OFF</div>
+        <img src="https://wallpapers.com/images/featured-full/aesthetic-book-pictures-gl5fohbknw1j6r0z.jpg" alt="Book 4">
+        <h3>Sueve Ceza I</h3>
+        <p class="author">Kathryn Murphy</p>
+        <p class="price">$91.00</p>
+      </div>
+  
+    </div>
+  </section>
+
+
+  <section class="testimonials">
+    <h2>What Our Customers Say</h2>
+    <div class="testimonial-slider">
+      
+      <div class="testimonial-card">
+        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Ross Lee">
+        <h3>Ross Lee</h3>
+        <div class="stars">★★★★★</div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit voluptas cupiditate aspernatur odit doloribus non.</p>
+      </div>
+  
+      <div class="testimonial-card">
+        <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Amelia Watson">
+        <h3>Amelia Watson</h3>
+        <div class="stars">★★★★★</div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit voluptas cupiditate aspernatur odit doloribus non.</p>
+      </div>
+  
+      <div class="testimonial-card">
+        <img src="https://randomuser.me/api/portraits/men/76.jpg" alt="Ben Roy">
+        <h3>Ben Roy</h3>
+        <div class="stars">★★★★★</div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit voluptas cupiditate aspernatur odit doloribus non.</p>
+      </div>
+
+      <div class="testimonial-card">
+        <img src="https://as2.ftcdn.net/v2/jpg/01/89/00/59/1000_F_189005947_5kADuetuJGUca2txNxgyebgxM9j3is4e.jpg" alt="Ben Roy">
+        <h3>Ritz</h3>
+        <div class="stars">★★★★★</div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit voluptas cupiditate aspernatur odit doloribus non.</p>
+      </div>
+
+
+      <div class="testimonial-card">
+        <img src="https://thumbs.dreamstime.com/b/young-brazilian-woman-smiling-sunset-242228706.jpg" alt="Ben Roy">
+        <h3>Beny</h3>
+        <div class="stars">★★★★★</div>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit voluptas cupiditate aspernatur odit doloribus non.</p>
+      </div>
+    </div>
+  </section>
+  
+
+
+  <section class="experience-section">
+    <div class="experience-container">
+      <div class="experience-image">
+        <img src="https://img.freepik.com/fotos-premium/decoracao-literaria-em-uma-sala-de-leitura-prateleiras-walltowall-um-sonho-que-se-torna-realidade-para-bibliofilos_966802-137894.jpg" alt="Reading Experience">
+      </div>
+      <div class="experience-text">
+        <h2>We Provide You The Experience</h2>
+        <p>Browse the collection of our best-selling and top interesting products.</p>
+        <a href="#" class="cta-button " >See our products</a>
+      </div>
+    </div>
+  </section>
+  
+
+
+
+  <footer class="footer">
+    <div class="footer-columns">
+      <div class="footer-column">
+        <h4>Help</h4>
+        <ul>
+          <li><a href="#">Legal Notice</a></li>
+          <li><a href="#">Contact Us</a></li>
+          <li><a href="#">FAQ</a></li>
+          <li><a href="#">CGV</a></li>
+        </ul>
+      </div>
+      <div class="footer-column">
+        <h4>Secure Payment</h4>
+        <p>Secure payments<br>protected via SSL protocol</p>
+      </div>
+      <div class="footer-column">
+        <h4>Social Networks</h4>
+        <ul>
+          <li><a href="#"><i class="fab fa-pinterest"></i> Pinterest</a></li>
+          <li><a href="#"><i class="fab fa-facebook-f"></i> Facebook</a></li>
+          <li><a href="#"><i class="fab fa-instagram"></i> Instagram</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2025 Book.com — Read. Learn. Grow.</p>
+    </div>
+  </footer>
+  
+  
+
+</body>
+
+
+<script>
+    
+
+/* script.js */
+function searchBook() {
+    alert("Searching by ISBN...");
+  }
+  window.addEventListener('DOMContentLoaded', () => {
+    const stack = document.querySelector('.book-stack-hero');
+    const cards = document.querySelectorAll('.book-card');
+  
+    if (!stack || cards.length === 0) return;
+  
+    let current = 0;
+    setInterval(() => {
+      const card = stack.children[0];
+      stack.appendChild(card);
+  
+      [...stack.children].forEach((el, i) => {
+        el.style.zIndex = 3 - i;
+        el.style.transform = `translateX(${i * 20}px) scale(${1 - i * 0.04}) rotateY(${(-2 + i)}deg)`;
+      });
+    }, 4000);
+  });
+  
+
+
+  async function searchBook() {
+    const query = document.getElementById("bookInput").value.trim();
+    const resultsContainer = document.getElementById("hero-search-results");
+
+    resultsContainer.innerHTML = "";
+
+    if (!query) return;
+
+    const apiKey = "AIzaSyBZjoJMoCDApAUBJqSTXvUBf6Z1IxgxWLU"; // your key
+    const url = `https://www.googleapis.com/books/v1/volumes?q=${encodeURIComponent(query)}&key=${apiKey}&maxResults=5`;
+
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+
+      if (!data.items) {
+        resultsContainer.innerHTML = "<p>No books found.</p>";
+        return;
+      }
+
+      data.items.forEach(book => {
+        const info = book.volumeInfo;
+        const title = info.title || "Untitled";
+        const author = info.authors ? info.authors.join(', ') : "Unknown Author";
+        const image = info.imageLinks?.thumbnail || "https://via.placeholder.com/150x220?text=No+Image";
+
+        const card = document.createElement("div");
+        card.classList.add("book-item");
+        card.innerHTML = `
+          <img src="${image}" alt="${title}">
+          <h3>${title}</h3>
+          <p>${author}</p>
+        `;
+
+        resultsContainer.appendChild(card);
+      });
+
+    } catch (err) {
+      console.error("API error:", err);
+      resultsContainer.innerHTML = "<p>Something went wrong.</p>";
+    }
+  }
+  function toggleMenu() {
+    const links = document.querySelector('.nav-links');
+    links.classList.toggle('active');
+  }
+  
+</script>
+</html>
+
+>>>>>>> 6dbab5deb86eef64a09f5b898a6d556e509f9dbb
