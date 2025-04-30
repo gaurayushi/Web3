@@ -48,6 +48,20 @@ Designed to work seamlessly across:
 
 
 
+```
+## 📌 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gaurayushi/Web3.git
+2. Open index.html in your browser.
+
+3. Search any book title in the input box and hit Search.
+
+
+``````
+
+
 ![111](https://github.com/user-attachments/assets/c58b7ab7-e1e7-45a1-95df-036023e49f62)
 
 ![1923](https://github.com/user-attachments/assets/aa6ea8ac-696e-43a2-9987-d0fb7765477a)
@@ -130,22 +144,6 @@ npm run dev
 
 
 
-
-
-
-
-## 📌 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gaurayushi/Web3.git
-
-
-
-
-2. Open index.html in your browser.
-
-3. Search any book title in the input box and hit Search.
 
 
 
