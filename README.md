@@ -3,6 +3,9 @@
 An elegant, responsive, and animated book landing page made using **HTML, CSS, and JavaScript**, with real-time book search using the **Google Books API**.
 
 🌐 **Live Preview:** [https://genuine-yeot-035261.netlify.app/](https://genuine-yeot-035261.netlify.app/)
+ 🔗 ** GitHub: [https://github.com/gaurayushi/Web3/tree/main](https://github.com/gaurayushi/Web3/tree/main)
+
+
 
 ---
 
