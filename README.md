@@ -163,6 +163,15 @@ A minimal and intuitive Todo app built with **Vite + React** to help you manage 
 - **Tailwind CSS** (for styling)
 - **JavaScript (ES6+)**
 
+
+![111](https://github.com/user-attachments/assets/09982507-7340-4776-9b64-75cd7ed50401)
+
+![123](https://github.com/user-attachments/assets/c2ab609c-abde-4af5-980f-506184088fb9)
+
+
+![1920](https://github.com/user-attachments/assets/b7d32016-7f0b-4246-825a-be333fa6afe9)
+
+
 ## 📂 Installation & Setup
 
 ```bash
