@@ -18,9 +18,6 @@ An elegant, responsive, and animated book landing page made using **HTML, CSS, a
 📱 Fully mobile-optimized design
 
 
- Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
-
-
 
 ---
 
