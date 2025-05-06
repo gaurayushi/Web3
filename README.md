@@ -6,16 +6,6 @@ An elegant, responsive, and animated book landing page made using **HTML, CSS, a
  🔗 ** GitHub: [https://github.com/gaurayushi/Web3/tree/main](https://github.com/gaurayushi/Web3/tree/main)
 
 
- Taskify - Role-Based Task Manager
- A role-based, responsive task manager app using HTML, CSS, and Vanilla JavaScript, ideal for assessments and frontend development practice.
-
-
-
-✅ Add / Delete / Mark tasks as complete
-💾 Persist tasks using LocalStorage
-🔍 Filter tasks: All / Completed / Pending
-📅 Sort tasks by newest
-📱 Fully mobile-optimized design
 
 
 
