@@ -208,11 +208,7 @@ Features
 ![image04](https://github.com/user-attachments/assets/f872463c-e6d4-482b-b16b-a9471da02e73)
 
 
-![image05](https://github.com/user-attachments/assets/afdf71a8-3caf-4251-b205-547437de6b7a)
-
-
-
-![image06](https://github.com/user-attachments/assets/35e16cae-8ca6-4e1c-ad7d-57b8ced7cba7)
+![image05](https://github.com/user-attachments/assets/afdf71a8-3caf-4251-b205-547437de6b7a)   ![image06](https://github.com/user-attachments/assets/35e16cae-8ca6-4e1c-ad7d-57b8ced7cba7)
 
  Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
  
