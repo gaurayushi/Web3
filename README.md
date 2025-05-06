@@ -180,20 +180,20 @@ A minimal and intuitive Todo app built with **Vite + React** to help you manage 
 
 
 
-
+<br>
+<br>
 
  Taskify - Role-Based Task Manager
+ <br>
  A role-based, responsive task manager app using HTML, CSS, and Vanilla JavaScript, ideal for assessments and frontend development practice.
-
-
-
+ <br>
 ✅ Add / Delete / Mark tasks as complete
 💾 Persist tasks using LocalStorage
 🔍 Filter tasks: All / Completed / Pending
 📅 Sort tasks by newest
 📱 Fully mobile-optimized design
-
-
+<br>
+<br>
  Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
 
 
