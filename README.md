@@ -192,6 +192,8 @@ Features
 📅 Sort by Newest First
 
 📱 Fully responsive design for mobile, tablet, and desktop
+🔗 **Live Demo:** [https://deft-parfait-4853e3.netlify.app/](https://deft-parfait-4853e3.netlify.app/)
+
 
 
  Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
