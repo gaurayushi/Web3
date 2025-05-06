@@ -6,6 +6,21 @@ An elegant, responsive, and animated book landing page made using **HTML, CSS, a
  🔗 ** GitHub: [https://github.com/gaurayushi/Web3/tree/main](https://github.com/gaurayushi/Web3/tree/main)
 
 
+ Taskify - Role-Based Task Manager
+ A role-based, responsive task manager app using HTML, CSS, and Vanilla JavaScript, ideal for assessments and frontend development practice.
+
+
+
+✅ Add / Delete / Mark tasks as complete
+💾 Persist tasks using LocalStorage
+🔍 Filter tasks: All / Completed / Pending
+📅 Sort tasks by newest
+📱 Fully mobile-optimized design
+
+
+ Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
+
+
 
 ---
 
@@ -170,6 +185,14 @@ A minimal and intuitive Todo app built with **Vite + React** to help you manage 
 
 
 ![1920](https://github.com/user-attachments/assets/b7d32016-7f0b-4246-825a-be333fa6afe9)
+
+
+
+
+
+
+
+
 
 
 ## 📂 Installation & Setup
