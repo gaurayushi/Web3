@@ -11,14 +11,11 @@ import taskRoutes from '../backend/routes/task.routes.js';
 dotenv.config();
 const app = express();
 
-app.use(cors
-  ({ 
-   
+app.use(cors({
   origin: process.env.FRONTEND,
-  credentials: true
-
-   }));
-
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  credentials: true,
+}));
 app.use(express.json());
 app.use(cookieParser());
 
