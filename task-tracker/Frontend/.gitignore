@@ -1,0 +1,53 @@
+# Node.js dependencies
+**/node_modules/
+**/dist/
+**/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.development
+**/.env.test
+**/.env.production
+
+# Cache files
+**/.next/
+**/.cache/
+**/.turbo/
+**/.vite/
+**/.eslintcache
+
+# VS Code settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# Firebase / misc tools
+.firebaserc
+firebase-debug.log
+
+# Optional IDE/Editor junk
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.iml
+
+# Git local config
+.gitmodules
