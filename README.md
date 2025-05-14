@@ -83,7 +83,7 @@ Designed to work seamlessly across:
 
 # 🌟 Pokédex Explorer
 
-A responsive, animated Pokédex app built with **React**, **Vite**, and **Tailwind CSS** 
+A responsive, animated Pokédex app built with **React**, **Vite**, and **Tailwind CSS**  <br>
 🔗 **Live Demo:** 
 [https://pokeapi-ayushigaur.vercel.app/](https://pokeapi-ayushigaur.vercel.app/)
 <br>
