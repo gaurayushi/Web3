@@ -1,4 +1,4 @@
-# 📚 Web3 - Interactive Book Landing Page
+# 📚 Interactive Book Landing Page
 
 An elegant, responsive, and animated book landing page made using **HTML, CSS, and JavaScript**, with real-time book search using the **Google Books API**.
 
