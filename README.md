@@ -83,11 +83,13 @@ Designed to work seamlessly across:
 
 # 🌟 Pokédex Explorer
 
-A responsive, animated Pokédex app built with **React**, **Vite**, and **Tailwind CSS**, powered by the [PokeAPI](https://pokeapi.co/).  
-🔗 **Live Demo:** [https://pokeapi-ayushigaur.vercel.app/](https://pokeapi-ayushigaur.vercel.app/)
+A responsive, animated Pokédex app built with **React**, **Vite**, and **Tailwind CSS** 
+🔗 **Live Demo:** 
+[https://pokeapi-ayushigaur.vercel.app/](https://pokeapi-ayushigaur.vercel.app/)
 <br>
-  🔗 ** GitHub: [https://github.com/gaurayushi/Web3/tree/main/PokeApi](https://github.com/gaurayushi/Web3/tree/main/PokeApi)
----
+🔗 ** GitHub:
+  [https://github.com/gaurayushi/Web3/tree/main/PokeApi](https://github.com/gaurayushi/Web3/tree/main/PokeApi)
+
 
 ## 🎯 Objective
 
