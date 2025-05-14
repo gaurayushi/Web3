@@ -7,9 +7,6 @@ An elegant, responsive, and animated book landing page made using **HTML, CSS, a
  🔗 ** GitHub: [https://github.com/gaurayushi/Web3/tree/main](https://github.com/gaurayushi/Web3/tree/main)
 
 
-
-
-
 ---
 
 ## ✨ Features
@@ -50,23 +47,6 @@ Designed to work seamlessly across:
 - ✅ Tablets
 - ✅ All modern mobile devices (iOS & Android)
 
----
-
-
-
-```
-## 📌 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gaurayushi/Web3.git
-2. Open index.html in your browser.
-
-3. Search any book title in the input box and hit Search.
-
-
-``````
-
 
 ![111](https://github.com/user-attachments/assets/c58b7ab7-e1e7-45a1-95df-036023e49f62)
 
@@ -74,6 +54,7 @@ Designed to work seamlessly across:
 
 
 ![120](https://github.com/user-attachments/assets/f44b5a12-cf31-4bfc-b8ab-54a39c48d8c8)
+
 
 
 
@@ -133,13 +114,15 @@ The project is a visual, interactive Pokédex where users can:
 ![1920](https://github.com/user-attachments/assets/2f9567db-ebd1-4831-beda-8bb696442c87)
 
 
-
-
 ![19200](https://github.com/user-attachments/assets/3fc3cdd1-5d71-46f9-ad20-eec5c7c8a30d)
 
 
 
 ![1920093](https://github.com/user-attachments/assets/b2c91330-649a-4d10-8b4b-bb895105f783)
+
+
+
+
 
 
 # 📚 -  WhatBytes: Skill Test Dashboard
@@ -184,6 +167,10 @@ An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, 
 ![13](https://github.com/user-attachments/assets/acd448f5-30ae-4be7-b628-0d854e1fd9b4)
 
 
+
+
+
+
 # 💼 Portfolio – Developer Showcase
 
 A creative, responsive portfolio built using **Next.js**, **Tailwind CSS**, and **Framer Motion**, featuring certification highlights, dynamic visuals, and elegant animations.
@@ -216,6 +203,8 @@ tech stack
 ![11](https://github.com/user-attachments/assets/fe34bc7f-15d5-4727-abe4-a29eebe97f50)
 
 ![12](https://github.com/user-attachments/assets/68e68ba9-733a-4d40-9528-88c655fd3855)
+
+
 
 
 
@@ -274,8 +263,10 @@ task-tracker/
 
 
 
+
+
  
- #🗂️ **Taskify – Role-Based Task Manager**
+ #🗂️ Taskify – Role-Based Task Manager
 
 A role-based, responsive Task Manager built with **HTML**, **CSS**, and **Vanilla JavaScript**. Designed for frontend development assessments and practical daily task management with persistent local storage.
 
