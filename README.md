@@ -254,6 +254,13 @@ task-tracker/
 
 
 
+## 🌐 Live Demo
+
+- 🔗 **Frontend (Vercel):** [web3-hdl3.vercel.app](https://web3-hdl3.vercel.app/)
+- 💻 **GitHub Repo:** [Task Tracker on GitHub](https://github.com/gaurayushi/Web3/tree/main/task-tracker)
+
+
+
 
 
 
