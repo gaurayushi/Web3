@@ -140,8 +140,7 @@ The project is a visual, interactive Pokédex where users can:
 ![1920093](https://github.com/user-attachments/assets/b2c91330-649a-4d10-8b4b-bb895105f783)
 
 
-
- WhatBytes: Skill Test Dashboard**
+# 📚 -  WhatBytes: Skill Test Dashboard
 
 An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, and **Recharts**, designed to showcase an engineer’s skill test performance through visual data analytics.
 
