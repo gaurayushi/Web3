@@ -141,7 +141,7 @@ The project is a visual, interactive Pokédex where users can:
 
 
 
-📊 **Web3 - WhatBytes: Skill Test Dashboard**
+ WhatBytes: Skill Test Dashboard**
 
 An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, and **Recharts**, designed to showcase an engineer’s skill test performance through visual data analytics.
 
@@ -177,7 +177,6 @@ An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, 
 ---
 
 ## 📷 Preview
-![12](https://github.com/user-attachments/assets/97201009-e00c-4587-91dc-9a99bb199e15)
 
 ![11](https://github.com/user-attachments/assets/b70de197-8b41-43cd-8891-ce132c79f51c)
 
@@ -185,25 +184,42 @@ An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, 
 
 
 
+🗂️ **Taskify – Role-Based Task Manager**
 
+A role-based, responsive Task Manager built with **HTML**, **CSS**, and **Vanilla JavaScript**. Designed for frontend development assessments and practical daily task management with persistent local storage.
 
-
-
-Taskify – Role-Based Task Manager
-A role-based, responsive Task Manager built with HTML, CSS, and Vanilla JavaScript. Designed for frontend development assessments or practical daily task handling.
-
-
-Features
-✅ Add, delete, and mark tasks as completed
-
-💾 Save tasks in LocalStorage (data persists across refresh)
-
-🔍 Filter tasks: All, Completed, Pending
-
-📅 Sort by Newest First
-
-📱 Fully responsive design for mobile, tablet, and desktop
 🔗 **Live Demo:** [https://deft-parfait-4853e3.netlify.app/](https://deft-parfait-4853e3.netlify.app/)
+
+---
+
+## ✨ Features
+
+✅ Add, delete, and mark tasks as completed  
+💾 Save tasks in **LocalStorage** (data persists across refresh)  
+🔍 Filter tasks: **All / Completed / Pending**  
+📅 Sort tasks by **Newest First**  
+📱 Fully **responsive design** for mobile, tablet, and desktop  
+🧩 Simple and intuitive role-based task handling
+
+---
+
+## 📁 Project Structure
+taskify-app/
+├── index.html
+├── style.css
+└── script.js
+
+
+## 🧪 Technologies Used
+
+| Feature      | Tech Stack           |
+|--------------|----------------------|
+| Markup       | HTML5                |
+| Styling      | CSS3                 |
+| Logic        | Vanilla JavaScript   |
+| Data Storage | LocalStorage API     |
+| Responsiveness | CSS Media Queries  |
+| Deployment   | Netlify              |
 
 
 ![image01](https://github.com/user-attachments/assets/abef3e2d-f699-4630-ae09-e4cf35faa0fc)
@@ -222,21 +238,6 @@ Features
 
 
  Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
