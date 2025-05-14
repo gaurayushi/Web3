@@ -12,7 +12,6 @@ dotenv.config();
 
 const app = express();
 
-// ✅ Allow multiple frontends dynamically
 const allowedOrigins = process.env.FRONTENDS.split(',');
 
 app.use(cors({
