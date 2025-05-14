@@ -261,6 +261,17 @@ task-tracker/
 
 
 
+![11](https://github.com/user-attachments/assets/9b8a4feb-bd1f-4c5d-ae03-00cfdec9e088)   ![12](https://github.com/user-attachments/assets/d9364d95-19bd-41e8-a9e3-a98570f57df4)
+
+![13](https://github.com/user-attachments/assets/56a90d36-9099-47a6-a22c-0f69d53a6782)
+
+![14](https://github.com/user-attachments/assets/349d2896-d8dd-448a-8e82-d8cbd28fd946)
+
+![15](https://github.com/user-attachments/assets/b8c79f1e-d641-4159-a313-77ad87d1905a)
+
+![16](https://github.com/user-attachments/assets/00b8f8bf-39b7-473d-b55a-791545c71f78)
+
+
 
 
 
