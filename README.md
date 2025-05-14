@@ -141,6 +141,53 @@ The project is a visual, interactive Pokédex where users can:
 
 
 
+📊 **Web3 - WhatBytes: Skill Test Dashboard**
+
+An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, and **Recharts**, designed to showcase an engineer’s skill test performance through visual data analytics.
+
+🔗 **Live Preview**: [https://web3-theta-umber.vercel.app/](https://web3-theta-umber.vercel.app/)  
+💻 **GitHub**: [WhatBytes__Dashboard Folder](https://github.com/gaurayushi/Web3/tree/main/WhatBytes__Dashboard)
+
+---
+
+## ✨ Features
+
+- 📈 Dynamic line chart comparing percentile scores using **Recharts**
+- 📊 Donut chart breakdown of correct vs. incorrect answers using **Chart.js**
+- 🧠 Syllabus-wise analysis section
+- 🖱️ Modal-based UI for live score updates (rank, percentile, score)
+- 🔄 Live state updates with React hooks
+- 🎨 Clean, responsive layout built with **Tailwind CSS**
+- ⚙️ Fully functional UI components with no backend dependency
+
+---
+---
+
+## 🛠️ Technologies Used
+
+| Purpose            | Tool/Library        |
+|--------------------|---------------------|
+| UI Framework       | React.js            |
+| Styling            | Tailwind CSS        |
+| Data Visualization | Recharts, Chart.js  |
+| Icons              | React Icons         |
+| State Management   | React Hooks         |
+| Deployment         | Vercel              |
+
+---
+
+## 📷 Preview
+![12](https://github.com/user-attachments/assets/97201009-e00c-4587-91dc-9a99bb199e15)
+
+![11](https://github.com/user-attachments/assets/b70de197-8b41-43cd-8891-ce132c79f51c)
+
+![13](https://github.com/user-attachments/assets/acd448f5-30ae-4be7-b628-0d854e1fd9b4)
+
+
+
+
+
+
 
 Taskify – Role-Based Task Manager
 A role-based, responsive Task Manager built with HTML, CSS, and Vanilla JavaScript. Designed for frontend development assessments or practical daily task handling.
