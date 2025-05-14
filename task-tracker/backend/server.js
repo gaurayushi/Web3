@@ -3,27 +3,39 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import cors from 'cors';
 import cookieParser from 'cookie-parser';
-import authRoutes from '../backend/routes/auth.routes.js';
-import projectRoutes from '../backend/routes/project.routes.js';
-import taskRoutes from '../backend/routes/task.routes.js';
 
+import authRoutes from './routes/auth.routes.js';
+import projectRoutes from './routes/project.routes.js';
+import taskRoutes from './routes/task.routes.js';
 
 dotenv.config();
+
 const app = express();
 
+// ✅ Allow multiple frontends dynamically
+const allowedOrigins = process.env.FRONTENDS.split(',');
+
 app.use(cors({
-  origin: process.env.FRONTEND,
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  origin: (origin, callback) => {
+    if (!origin || allowedOrigins.includes(origin.trim())) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
 }));
+
 app.use(express.json());
 app.use(cookieParser());
 
-// Routes
+// ✅ Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/projects', projectRoutes);
 app.use('/api/tasks', taskRoutes);
 
+// ✅ MongoDB connection and server start
 mongoose.connect(process.env.MONGO_URL)
   .then(() => {
     console.log("✅ MongoDB connected");
