@@ -261,21 +261,21 @@ task-tracker/
 
 
 
-![11](https://github.com/user-attachments/assets/9b8a4feb-bd1f-4c5d-ae03-00cfdec9e088)   ![12](https://github.com/user-attachments/assets/d9364d95-19bd-41e8-a9e3-a98570f57df4)
-
-![13](https://github.com/user-attachments/assets/56a90d36-9099-47a6-a22c-0f69d53a6782)
-
-![14](https://github.com/user-attachments/assets/349d2896-d8dd-448a-8e82-d8cbd28fd946)
-
-![15](https://github.com/user-attachments/assets/b8c79f1e-d641-4159-a313-77ad87d1905a)
 
 ![16](https://github.com/user-attachments/assets/00b8f8bf-39b7-473d-b55a-791545c71f78)
 
+![11](https://github.com/user-attachments/assets/9b8a4feb-bd1f-4c5d-ae03-00cfdec9e088)   ![12](https://github.com/user-attachments/assets/d9364d95-19bd-41e8-a9e3-a98570f57df4)
+
+![13](https://github.com/user-attachments/assets/56a90d36-9099-47a6-a22c-0f69d53a6782)  ![14](https://github.com/user-attachments/assets/349d2896-d8dd-448a-8e82-d8cbd28fd946)
+
+![15](https://github.com/user-attachments/assets/b8c79f1e-d641-4159-a313-77ad87d1905a)
 
 
 
 
-#🗂️ **Taskify – Role-Based Task Manager**
+
+ 
+ #🗂️ **Taskify – Role-Based Task Manager**
 
 A role-based, responsive Task Manager built with **HTML**, **CSS**, and **Vanilla JavaScript**. Designed for frontend development assessments and practical daily task management with persistent local storage.
 
@@ -325,10 +325,8 @@ taskify-app/
 ![image04](https://github.com/user-attachments/assets/f872463c-e6d4-482b-b16b-a9471da02e73)
 
 
-![image05](https://github.com/user-attachments/assets/afdf71a8-3caf-4251-b205-547437de6b7a)   ![image06](https://github.com/user-attachments/assets/35e16cae-8ca6-4e1c-ad7d-57b8ced7cba7)
+![image05](https://github.com/user-attachments/assets/afdf71a8-3caf-4251-b205-547437de6b7a) ![image06](https://github.com/user-attachments/assets/35e16cae-8ca6-4e1c-ad7d-57b8ced7cba7)
 
-
- Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
 
 
 
