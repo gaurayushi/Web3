@@ -142,43 +142,6 @@ The project is a visual, interactive Pokédex where users can:
 
 
 
-
-
-# TodoMaker 📝
-
-A minimal and intuitive Todo app built with **Vite + React** to help you manage daily tasks efficiently.
-
-## 🌐 Live Demo
-[Click here to view the live app](https://web3-todo-zeta.vercel.app/)
-
-## 💻 Source Code
-[GitHub Repository](https://github.com/gaurayushi/Web3/tree/main/TodoMaker/Todo)
-
-## 🚀 Features
-- Add and delete todos
-- Simple and responsive UI
-- Real-time state updates
-- Persistent across page reloads (optional enhancement)
-
-## 📦 Tech Stack
-- **React** (with Hooks)
-- **Vite** (blazing fast dev server)
-- **Tailwind CSS** (for styling)
-- **JavaScript (ES6+)**
-
-
-![111](https://github.com/user-attachments/assets/09982507-7340-4776-9b64-75cd7ed50401)
-
-![123](https://github.com/user-attachments/assets/c2ab609c-abde-4af5-980f-506184088fb9)
-
-
-![1920](https://github.com/user-attachments/assets/b7d32016-7f0b-4246-825a-be333fa6afe9)
-
-
-
-
-
-
 Taskify – Role-Based Task Manager
 A role-based, responsive Task Manager built with HTML, CSS, and Vanilla JavaScript. Designed for frontend development assessments or practical daily task handling.
 
@@ -210,7 +173,28 @@ Features
 
 ![image05](https://github.com/user-attachments/assets/afdf71a8-3caf-4251-b205-547437de6b7a)   ![image06](https://github.com/user-attachments/assets/35e16cae-8ca6-4e1c-ad7d-57b8ced7cba7)
 
+
  Features![work](https://github.com/user-attachments/assets/0254b2eb-f3a7-4cfb-a49b-b6c7e6838f26)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
