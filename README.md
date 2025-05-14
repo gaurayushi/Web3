@@ -213,6 +213,10 @@ tech stack
 - **TypeScript**, ESLint, Prettier
 
 ---
+![11](https://github.com/user-attachments/assets/fe34bc7f-15d5-4727-abe4-a29eebe97f50)
+
+![12](https://github.com/user-attachments/assets/68e68ba9-733a-4d40-9528-88c655fd3855)
+
 
 
 🗂️ **Taskify – Role-Based Task Manager**
