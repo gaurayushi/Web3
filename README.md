@@ -265,14 +265,12 @@ task-tracker/
 
 
 
- 
- #🗂️ Taskify – Role-Based Task Manager
+ # ✅ Taskify – Role-Based Task Manager
 
 A role-based, responsive Task Manager built with **HTML**, **CSS**, and **Vanilla JavaScript**. Designed for frontend development assessments and practical daily task management with persistent local storage.
 
 🔗 **Live Demo:** [https://deft-parfait-4853e3.netlify.app/](https://deft-parfait-4853e3.netlify.app/)
 
----
 
 ## ✨ Features
 
