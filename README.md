@@ -182,6 +182,36 @@ An interactive, responsive dashboard built with **React.js**, **Tailwind CSS**, 
 ![13](https://github.com/user-attachments/assets/acd448f5-30ae-4be7-b628-0d854e1fd9b4)
 
 
+# 💼 Portfolio – Developer Showcase
+
+A creative, responsive portfolio built using **Next.js**, **Tailwind CSS**, and **Framer Motion**, featuring certification highlights, dynamic visuals, and elegant animations.
+
+🔗 Live Demo: [https://ayushi-ten.vercel.app/](https://ayushi-ten.vercel.app/)  
+📁 GitHub Repo: [Portfolio Source Code](https://github.com/gaurayushi/Web3/tree/main/portfolio)
+
+---
+
+features
+
+✅ Animated hero section with spotlight and typing effects  
+🎖️ Certification cards using dynamic borders  
+🎨 Fully responsive and dark-mode friendly  
+🌀 Smooth scroll-based animations  
+🌐 3D support using `three.js` and `@react-three/fiber`
+
+---
+
+tech stack
+
+- **Next.js 14**  
+- **Tailwind CSS**  
+- **Framer Motion**  
+- **Three.js**  
+- **React Icons**  
+- **TypeScript**, ESLint, Prettier
+
+---
+
 
 🗂️ **Taskify – Role-Based Task Manager**
 
