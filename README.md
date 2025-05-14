@@ -219,7 +219,45 @@ tech stack
 
 
 
-🗂️ **Taskify – Role-Based Task Manager**
+# ✅ Task Tracker App
+
+A full-stack task and project management application built with **React (Frontend)** and **Node.js + Express + MongoDB (Backend)**.
+---
+## 📁 Project Structure
+task-tracker/
+├── backend/ # Node.js, Express API with MongoDB
+├── Frontend/ # React app with Tailwind CSS
+├── .gitignore
+└── README.md
+
+
+---
+
+## 🚀 Features
+
+- 🔐 **JWT-based Authentication** (Login, Signup, Google Auth)
+- 🧑 User profile with Avatar (Google or manual)
+- 📂 Create & delete projects (max 4 per user)
+- ✅ Create, update, delete tasks per project
+- 🧭 Sidebar navigation with project listing
+- 🌈 Fully responsive UI with TailwindCSS
+- 💾 Token handling with localStorage
+- 📦 Ready for deployment (Render, Vercel, etc.)
+
+---
+
+## 🛠️ Tech Stack
+
+| Frontend        | Backend            | Database |
+|-----------------|--------------------|----------|
+| React, Tailwind | Node.js, Express   | MongoDB  |
+
+
+
+
+
+
+#🗂️ **Taskify – Role-Based Task Manager**
 
 A role-based, responsive Task Manager built with **HTML**, **CSS**, and **Vanilla JavaScript**. Designed for frontend development assessments and practical daily task management with persistent local storage.
 
