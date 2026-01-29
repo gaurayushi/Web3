@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@prisma/adapter-better-sqlite3": "^7.3.0",
+    "@tailwindcss/postcss": "^4.1.18",
+    "axios": "^1.13.4",
+    "better-sqlite3": "^12.6.2",
+    "lucide-react": "^0.563.0",
+    "react-hook-form": "^7.71.1",
+    "react-hot-toast": "^2.6.0",
+    "tailwindcss": "^4.1.18",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/react": "^19.2.10",
+    "@types/react-dom": "^19.2.3"
+  }
+}
